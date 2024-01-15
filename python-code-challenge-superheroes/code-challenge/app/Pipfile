@@ -10,6 +10,7 @@ migrate = "*"
 sqlalchemy = "*"
 flask-sqlalchemy = "*"
 faker = "*"
+cors = "*"
 
 [dev-packages]
 
